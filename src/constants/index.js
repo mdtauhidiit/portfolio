@@ -32,7 +32,7 @@ export const PROJECTS = [
     description:
       "A College Problem-Solving Platform to address 10+ common issues faced by students, such as internet, sanitation, mess, and electricity concerns",
     technologies: ["React", "Node.js", "Express.js", "MongoDB", "Context API"],
-    url:'',
+    url:'https://complaint-center-frontend.onrender.com/',
   },
   {
     title: "Portfolio Website",
